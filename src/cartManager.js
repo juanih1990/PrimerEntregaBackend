@@ -56,7 +56,6 @@ class CartManager {
             try {
 
                 if (!fs.existsSync(this.path)) {
-                    console.log("entro")
                     await this.CrearCarrito()
                 }
 

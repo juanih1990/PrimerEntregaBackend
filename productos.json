@@ -1,0 +1,22 @@
+[
+  {
+    "title": "cerveza",
+    "price": "1500",
+    "description": "cerveza negra",
+    "code": "18asa",
+    "stock": "155",
+    "status": "true",
+    "category": "bebidas",
+    "id": 1
+  },
+  {
+    "id": 2,
+    "title": "fernet",
+    "description": "fernet branca",
+    "price": "4000",
+    "code": "19as",
+    "stock": "155",
+    "status": "true",
+    "category": "bebidas"
+  }
+]
